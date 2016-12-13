@@ -1,0 +1,7 @@
+echo "# GH1" >> README.md 
+git o init 
+git add README.md 
+git commit -m "primeira cometer" 
+git remoto adicionar origem https://github.com/DouglasDavi/gh1.git
+ git empurrar -u mestre origem
+ 
